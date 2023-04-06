@@ -1,0 +1,1208 @@
+{
+	  "GuideData": {
+    "AdsController": 
+      {
+		  
+        "BannerAd": "facebook",
+	      "InterstitialAd": "facebook",
+        "NativeAd": "facebook",
+		
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterAdmob":  "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+	     
+        "FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
+        "FanInter":  "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
+        "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
+		
+		"MaxBanner" : "YOUR_AD_UNIT_ID",
+		"MaxInter" :  "YOUR_AD_UNIT_ID",
+		"MaxNative" : "YOUR_AD_UNIT_ID",
+		
+		"ironsource_appKey": "1011dee21",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+		
+        "Cpa": false,
+        "ImageUrl" : "https://i.postimg.cc/Bbx6m3xC/img.jpg",
+        "LinkCpa" : "https://freefire-ffdiamonds.netlify.app/"
+
+		},
+
+		"items": [
+			
+				  	    {
+        "title": "Solo Leveling",
+        "image": "https://i.postimg.cc/66SsC0tP/solo-leveling.jpg",
+		"color": "#EEF2E6",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "An upcoming Solo Leveling anime is confirmed by Crunchyroll! It was announced during Crunchyroll’s Anime Expo 2022 Industry Panel. \n\n  A-1 Pictures (Sword Art Online, Kaguya-sama: Love is War) is animating the series. Shunsuke Nakashige (Sword Art Online: Alicization) is directing the series and Tomoko Sudo (Alice in Borderland OVA) is doing the character designs. Hiroyuki Sawano (Attack on Titan, Kill la Kill) is composing and writing the music for Solo Leveling. \n\n  DUBU, who created the manhwa, had the following to say about the upcoming adaptation, Solo Leveling is finally making its anime debut. It feels like only yesterday that we got the offer for the anime adaptation. I feel so overwhelmed when I think that the anime is really being created right now. This is all thanks to you fans who love and support Solo Leveling. I'm filled with gratitude. \n\n  Solo Leveling follows the weakest hunter Jinwoo Sung, who despite this fact, continues to head out on raids because he needs to find a way to pay for his family's growing debt. His party stumbles into trouble one day when they come face-to-face with a being whose power outranks anything he’s ever seen. While fighting for his life, the System offers him an unexpected chance to become a 'Player,' which opens him up to a whole new world of possibilities.",
+        "isNative": false,
+		"background": "#645CAA"
+      },
+	  
+	  
+	  	    {
+        "title": "Mashle",
+        "image": "https://i.postimg.cc/MKDyhsHP/Mashle-Magic-and-Muscles-Chapter-7-Spoilers-Release-Date-and-Time.jpg",
+		"color": "#FEF5AC",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Mashle is about a magic-less guy named Mash, who lives in a magical world. What he lacks in magic though, he makes up for in brute strength. \n\n  Magic is everything in the world of Mashle and those with the best magic skills have the highest social status. Deep in the forest lives Mash, who has been training for years and is now incredibly fit. However, he has no idea that there’s a whole world outside of his forest home. \n\n  When he’s discovered and is forced to attend magic school, he’ll need to compete with his fellow students in order to become one of the Divine Visionaries—students at the top of their class who are revered by everyone. But since Mash doesn't know how to use magic at all, it looks like he'll be forced to fight his way to the top instead.",
+        "isNative": false,
+		"background": "#645CAA"
+      },
+	  
+	  
+	  	    {
+        "title": "Tomo-chan Is a Girl!",
+        "image": "https://i.postimg.cc/JnFk1gZm/69dbccfe235cb864d00f36324c3a9cf806c689d4-hq.jpg",
+		"color": "#90B77D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Tomo and Jun have been best buds since they were little kids, but now that they’re in high school, Tomo wants to be more than friends... too bad Jun just sees her as ‘one of the guys.’ Tomo may be a tomboy, but she’s determined to prove to Jun that she’s a woman, too.",
+        "isNative": false,
+		"background": "#EB1D36"
+      },
+	  
+	  
+	  	    {
+        "title": "My Life as Inukai-san's Dog",
+        "image": "https://i.postimg.cc/3JR5PxFP/hqdefault.jpg",
+		"color": "#FFFDE3",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Inu ni Nattara Suki na Hito ni Hirowareta (My Life as Inukai-san's Dog) is an ecchi comedy and it tells the story of a girl named Karen Inukai who loves dogs so much that she turns her classmate into one.",
+        "isNative": false,
+		"background": "#E64848"
+      },
+	  
+	  
+	  	    {
+        "title": "Blue Orchestra",
+        "image": "https://i.postimg.cc/HWRYTMvQ/Capture-d-cran-2022-10-15-145455.png",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Hajime Aono was raised to be a violin prodigy, winning countless awards and dominating competitions. But he gave up on the violin during his second year of middle school. One day, Ritsuko Akine inspires him to take up the violin again. He decides to go to a high school with a famous orchestra club. With the help of Akine and his new clubmates, he learns to love the violin again.",
+        "isNative": false,
+		"background": "#3120E0"
+      },
+	  
+	  
+	  	    {
+        "title": "My Love Story With Yamada-kun at Lv999",
+        "image": "https://i.postimg.cc/x8fzY4fT/1963534.jpg",
+		"color": "#293462",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Akane, who has just been dumped, decides to try her hand at gaming to get over her ex. One day she meets Yamada, a legendary gamer, in an online RPG and they become fast friends. The only problem is that Yamada doesn't seem interested in anything but the game itself. Will Akane's feelings ever be requited?",
+        "isNative": false,
+		"background": "#D61C4E"
+      },
+	  
+	  
+	  	    {
+        "title": "Kubo Won't Let Me Be Invisible",
+        "image": "https://i.postimg.cc/CKv1kxSY/kubo-wont-let-me-be-invisible-anime-poster.jpg",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Junta Shiraishi is a mob character, someone who is ignored even when he's standing right in front of you. But his classmate, the heroine-level beauty Kubo, always notices him and teases him. Anyone can be special to someone else, but it might be too soon to call these feelings 'love.' \n\n  Perhaps this story is just two steps away from being a romantic comedy—let's call it a sweet comedy where a background character becomes visible!",
+        "isNative": false,
+		"background": "#B2A4FF"
+      },
+	  
+	  
+	  	    {
+        "title": "Blue Lock",
+        "image": "https://i.postimg.cc/BvChCRVJ/a-1243.jpg",
+		"color": "#100F0F",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": " After failing to win the World Cup, there's unrest in the Japanese Soccer community. \n\n  Many of the older patrons of the sport aren't too disturbed by the lack of trophies, but newcomer Anri Teiri is furious – and she's determined to fix what she sees as the problem with Japanese players. \n\n  To that end she hires maverick trainer Jinpachi Ego, who devises a strange yet rigorous plan: he takes the three hundred best young soccer players in the country, sends them to a state-of-the-art training facility, and whittles them down until he has the absolute best striker in the nation. \n\n Yoichi Isagi is one of the boys chosen for the camp. He may be number 299 out of 300, but nothing – and no one – is going to stand in his way of coming out on top. (from manga) ",
+        "isNative": false,
+		"background": "#5800FF"
+      },
+				  	    {
+        "title": "Bleach: Thousand-Year Blood War",
+        "image": "https://i.postimg.cc/W122yZfJ/61fa4238d453332c7c688e722f54c394.jpg",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "  After a thousand years, war has returned to the doorstep of Soul Society. \n\n The Quincy, long thought to have been exterminated by the Soul Reapers, have been revived by their mysterious king, and have been preparing to annihilate their would-be destroyers. \n\n  He doesn't know it yet, but Substitute Soul Reaper Ichigo Kurosaki may just hold the key to victory in this long-awaited battle - but for which side? ",
+        "isNative": false,
+		"background": "#FF731D"
+      },
+	  
+	  	    {
+        "title": "Chainsaw Man",
+        "image": "https://i.postimg.cc/65zV7Dg2/images.jpg",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": " Denji is a destitute young man who lives in a world filled with bloodthirsty monsters called Devils. \n\n One day, he befriends Pochita, who is a Devil dog-thing that is also a literal chainsaw. If that wasn't already weird, things take a real turn when Denji is murdered by gangsters, and Pochita fuses with his soul to save his life. \n\n This turns the perpetually hungry and horny Denji into the titular Chainsaw Man, who ends up hunting other Devils for the enigmatic Makima, a woman who works for a governmental bureau of Devil Hunters, and strings Denji along with vague promises of sex and fortune, even as she treats him as little more than a dog himself. (from manga) ",
+        "isNative": false,
+		"background": "#DD5353"
+      },
+	  
+	  
+	  	    {
+        "title": "My Hero Academia Season 6",
+        "image": "https://i.postimg.cc/J4JnvJc1/index.jpg",
+		"color": "#C8DBBE",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": " This new season adapts the 'Paranormal Liberation War' arc of Kōhei Horikoshi's original manga, which features an all-out war between heroes and villains. ",
+        "isNative": false,
+		"background": "#425F57"
+      },
+	  
+	  
+	  	    {
+        "title": "Legend of the Galactic Heroes: Die Neue These - Intrigue (movies)",
+        "image": "https://i.postimg.cc/j5mfQTKv/300px-Lo-GH-Die-Neue-These.jpg",
+		"color": "#1746A2",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": " The battle between Fortresses Iserlohn and Geiersberg is coming to its conclusive collision. \n\n Yang Wen-Li has fully reunited with his fleet, command soundly shored up to drive off the Imperial interlopers. \n\n With naught but his honor to save, Kempff takes Geiersberg into his own control for one last, desperate attack, but as the highest commanders on either side had predicted, such a move would be too little, too late. \n\n Instead, these events serve to further fuel the legends being written here, heroes on both sides resolving in their reactions to Yang's victory and their roles around it. ",
+        "isNative": false,
+		"background": "#FFD372"
+      },
+	  
+	  
+	  	    {
+        "title": "Berserk: The Golden Age Arc - Memorial Edition",
+        "image": "https://i.postimg.cc/TP92Q17Y/berserk-the-golden-age-featured.jpg",
+		"color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": " The lone mercenary Guts travels a land where a century-old war is raging. \n\n His ferocity and skill in battle attract the attention of Griffith, the leader of a group of mercenaries called the Band of the Hawk. \n\n Guts becomes Griffith's closest ally and confidant, but despite all their victories, Guts begins to question why he fights for another man's dream of ruling his own kingdom. \n\n Unknown to Guts, Griffith's unyielding ambition is about to bestow a horrible fate on them both. ",
+        "isNative": false,
+		"background": "#EEEEEE"
+      },
+	  
+	  
+	  	    {
+        "title": "Golden Kamuy",
+        "image": "https://i.postimg.cc/K8GHBYM5/imagesc.jpg",
+		"color": "#FFDE00",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": " Immortal Sugimoto and Asirpa have reunited after the battle with Ogata at the end of season three.\n\n  With the crew back together, they are pursuing the young Russian woman Sofia. But in the meantime, they must be wary of continued threats, including the still-alive Ogata. Meanwhile, former head jailer Kadokura joins the many other groups searching for the hidden gold. ",
+        "isNative": false,
+		"background": "#000000"
+      },
+	  
+	  
+	  	    {
+        "title": "Mob Psycho 100 III",
+        "image": "https://i.postimg.cc/GpZK73HV/imagesjnl.jpg",
+		"color": "#EEEEEE",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": " 'Mob' is a boy who will explode if his emotional capacity reaches 100%. This boy with psychic powers earned his nickname 'Mob' because he does not stand out among other people.\n\n  He keeps his psychic powers bottled up so he can live normally, but if his emotional level reaches 100, something will overwhelm his entire body. ",
+        "isNative": false,
+		"background": "#6F38C5"
+      },
+			
+	{
+				"title": " Code Geass: Lelouch of the Rebellion ",
+				"image": "https://mrkzgulfup.com/uploads/165679306821351.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "The Empire of Britannia has invaded Japan using giant robot weapons called Knightmare Frames. Japan is now referred to as Area 11, and its people the 11's. A Britannian who was living in Japan at the time, Lelouch, vowed to his Japanese friend Suzaku that he'd destroy Britannia. Years later, Lelouch is in high school, but regularly skips out of school to go play chess and gamble on himself. One day, he stumbles on terrorists 11's who've stolen a military secret and is caught by a member of the Britannian task force sent after them, who is Suzaku. As the rest of the squad arrives, Suzaku is shot for disobeying orders, while the military secret, a young immortal witch, gives Lelouch the power of Geass, which makes anyone obey any order. While Suzaku is secretly made the pilot of Britannia's brand new prototype Knightmare, Lancelot, Lelouch becomes the masked Zero to lead the rebellion to destroy Britannia once and for all.",
+				"isNative": true,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Fullmetal Alchemist: Brotherhood ",
+				"image": "https://mrkzgulfup.com/uploads/164937546027121.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "DOWNLOAD",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Two brothers lose their mother to an incurable disease. With the power of 'alchemy', they use taboo knowledge to resurrect her. The process fails, and as a toll for using this type of alchemy, the older brother, Edward Elric loses his left leg while the younger brother, Alphonse Elric loses his entire body. To save his brother, Edward sacrifices his right arm and is able to affix his brother's soul to a suit of armor. With the help of a family friend, Edward receives metal limbs - 'automail' - to replace his lost ones. With that, Edward vows to search for the Philosopher's Stone to return the brothers to their original bodies, even if it means becoming a 'State Alchemist', one who uses his/her alchemy for the military.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Death Note ",
+				"image": "https://mrkzgulfup.com/uploads/164937666431671.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "After an intelligent yet cynical high school student begins to cleanse the world from evil with the help of a magical notebook that can kill anyone whose name is written on it, international authorities call upon a mysterious detective known as 'L' to thwart his efforts.",
+				"isNative": true,
+				"background": "#FFE998"
+			},
+			{
+				"title": " Hunter x Hunter ",
+				"image": "https://mrkzgulfup.com/uploads/164919907949991.gif",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Gon Freecss is a young boy living on Whale Island. He learns from 'Hunter' Kite, that his father, who he was told was dead, is still alive somewhere as a top 'Hunter' risking his life to seek unknown items, such as hidden treasures, curiosa, exotic living creatures, etc. Gon decides to become a professional Hunter and leaves the island. To become a Hunter, he must pass the Hunter Examination, where he meets and befriends three other applicants: Kurapika, Leorio and Killua. Can Gon pass this formidable hurdle, the Hunter Examination, to become 'the Best Hunter in the World' and eventually meet his father?",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+			{
+				"title": " Steins;Gate ",
+				"image": "https://mrkzgulfup.com/uploads/164937914669141.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Steins;Gate is about Okabe Rintarou, a 'mad scientist' who spends his time hanging out in his laboratory with his friends Mayuri and Daru. Ocassionally, they manage to invent futuristic gadgets, though these are never worth mentioning. The first few episodes may turn you down, as it seems like your general slice of life/comedy anime. However, when their most interesting invention, the Phone Microwave, turns out to be able to send text messages through time, everything changes: the text messages sent to the past have a huge impact on the present. When Okabe, in a horrifying way, finds out about an evil organization called SERN, and their ways, he is forced to use time travelling methods to prevent from getting captured – and stop their plans. This (around episode 9) is where the amazing Sci-Fi thriller fires up its engines, and puts the viewer on the edge of their seat. What follows is a fascinating (somewhat complex) plot, which manages to blow your mind each episode. Steins;Gate is not just your generic time traveling show; the plot is executed perfectly. Hardly ever before have I encountered such a well thought through plot as featured in Steins;Gate. The show features several jumps in time, but still manages to keep the viewers’ attention without confusing them. The pace present in Steins;Gate is not lacking either – in fact, from episode 9 onwards the show holds a perfect pace. Piece by piece, the mystery of the events that happen is unveiled, working towards a fantastic, satisfying ending. (Which is very rare, especially for a show with such a complex plot) Story - and plot wise, Steins;Gate is pretty much an unprecedented piece of art, and I think it might stay so for a while.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Attack on titan ",
+				"image": "https://mrkzgulfup.com/uploads/165663667409522.jpeg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+
+			{
+				"title": " Sono Bisque Doll wa Koi wo Suru ",
+				"image": "https://mrkzgulfup.com/uploads/16568506939592.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "High school student Wakana Gojou spends his days perfecting the art of making hina dolls, hoping to eventually reach his grandfather's level of expertise. While his fellow teenagers busy themselves with pop culture, Gojou finds bliss in sewing clothes for his dolls. Nonetheless, he goes to great lengths to keep his unique hobby a secret, as he believes that he would be ridiculed were it revealed. \n\n  Enter Marin Kitagawa, an extraordinarily pretty girl whose confidence and poise are in stark contrast to Gojou's meekness. It would defy common sense for the friendless Gojou to mix with the likes of Kitagawa, who is always surrounded by her peers. However, the unimaginable happens when Kitagawa discovers Gojou's prowess with a sewing machine and brightly confesses to him about her own hobby: cosplay. Because her sewing skills are pitiable, she decides to enlist his help.\n\n  As Gojou and Kitagawa work together on one cosplay outfit after another, they cannot help but grow close—even though their lives are worlds apart.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Kiseijuu ",
+				"image": "https://mrkzgulfup.com/uploads/165661525986591.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "All of a sudden, they arrived: parasitic aliens that descended upon Earth and quickly infiltrated humanity by burrowing into the brains of vulnerable targets. These insatiable beings acquire full control of their host and are able to morph into a variety of forms in order to feed on unsuspecting prey. \n\n  Sixteen-year-old high school student Shinichi Izumi falls victim to one of these parasites, but it fails to take over his brain, ending up in his right hand instead. Unable to relocate, the parasite, now named Migi, has no choice but to rely on Shinichi in order to stay alive. Thus, the pair is forced into an uneasy coexistence and must defend themselves from hostile parasites that hope to eradicate this new threat to their species.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Shigatsu wa kimi no uso ",
+				"image": "https://mrkzgulfup.com/uploads/165661906742413.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": " Kousei Arima is a child prodigy known as the 'Human Metronome' for playing the piano with precision and perfection. Guided by a strict mother and rigorous training, Kousei dominates every competition he enters, earning the admiration of his musical peers and praise from audiences. When his mother suddenly passes away, the subsequent trauma makes him unable to hear the sound of a piano, and he never takes the stage thereafter.\n\n Nowadays, Kousei lives a quiet and unassuming life as a junior high school student alongside his friends Tsubaki Sawabe and Ryouta Watari. While struggling to get over his mother's death, he continues to cling to music. His monochrome life turns upside down the day he encounters the eccentric violinist Kaori Miyazono, who thrusts him back into the spotlight as her accompanist. Through a little lie, these two young musicians grow closer together as Kaori tries to fill Kousei's world with color.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+
+			{
+				"title": " 0ne punch man ",
+				"image": "https://mrkzgulfup.com/uploads/165662361616581.gif",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "The seemingly unimpressive Saitama has a rather unique hobby: being a hero. In order to pursue his childhood dream, Saitama relentlessly trained for three years, losing all of his hair in the process. Now, Saitama is so powerful, he can defeat any enemy with just one punch. However, having no one capable of matching his strength has led Saitama to an unexpected problem—he is no longer able to enjoy the thrill of battling and has become quite bored.\n\n  One day, Saitama catches the attention of 19-year-old cyborg Genos, who witnesses his power and wishes to become Saitama’s disciple. Genos proposes that the two join the Hero Association in order to become certified heroes that will be recognized for their positive contributions to society. Saitama, who is shocked that no one knows who he is, quickly agrees. Meeting new allies and taking on new foes, Saitama embarks on a new journey as a member of the Hero Association to experience the excitement of battle he once felt.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+
+			{
+				"title": " Rainbow: Nisha Rokubou no Shichinin ",
+				"image": "https://mrkzgulfup.com/uploads/165663301011972.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Six minors (16 or 17 years) answering to the nicknames of Joe, Mario, Suppon, Baremoto, Heitai and Kyabetsu are put into a reformatory for offences such as aggravated assault, swindle, flight, etc. Their stay in hell begins immediately. Accommodated by a doctor paedophile, they are placed under the monitoring of a despotic and brutal crew. Companions of cell of certain Sakuragi (called Anchan), the tension flares up between the band of buddies and their new 'friend.'\n\n  A brawl breaks out and our six prisoners are done rossés by mysterious young man thanks to his boxing talent. \n\n  The story will not only follow the lives of these seven characters surviving in their hellish environment, but also their disillusions due to the rejection by the outside world and by their close relations. This is about the extraodinary and invincible friendships between these young men.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " one piece ",
+				"image": "https://mrkzgulfup.com/uploads/164920216715991.png",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "There once lived a pirate named Gol D. Roger. He obtained wealth, fame, and power to earn the title of Pirate King. When he was captured and about to be executed, he revealed that his treasure called One Piece was hidden somewhere at the Grand Line. This made all people set out to search and uncover the One Piece treasure, but no one ever found the location of Gol D. Roger's treasure, and the Grand Line was too dangerous a place to overcome. Twenty-two years after Gol D. Roger's death, a boy named Monkey D. Luffy decided to become a pirate and search for Gol D. Roger's treasure to become the next Pirate King.",
+				"isNative": true,
+				"background": "#FFE998"
+			},
+			{
+				"title": " Demon slayer ",
+				"image": "https://mrkzgulfup.com/uploads/164920480257261.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
+				"isNative": true,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " 5-toubun no hanayome ",
+				"image": "https://mrkzgulfup.com/uploads/165662497241661.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Fuutarou Uesugi is an ace high school student, but leads an otherwise tough life. His standoffish personality and reclusive nature have left him friendless, and his father is debt-ridden, forcing his family to scrape by.\n\n  One day during his lunch break, Uesugi argues with a female transfer student who has claimed 'his seat,' leading both of them to dislike each other. That same day, he is presented with a golden opportunity to clear his family's debt: a private tutoring gig for a wealthy family's daughter, with a wage of five times the market price. He accepts the proposal, but is horrified to discover that the client, Itsuki Nakano, is the girl he confronted earlier! \n\n  After unsuccessfully trying to get back on Itsuki's good side, Uesugi finds out that his problems don't end there: Itsuki is actually a quintuplet, so in addition to her, he must also tutor her sisters—Miku, Yotsuba, Nino, and Ichika—who, despite the very real threat of flunking, want nothing to do with a tutor. However, his family's livelihood is on the line so Uesugi pushes on, adamant in his resolve to rid the sisters of their detest for studying and successfully lead them to graduation.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Jujutsu Kaisen ",
+				"image": "https://mrkzgulfup.com/uploads/16493862673717.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital, where he visits his bedridden grandfather. However, this leisurely lifestyle soon takes a turn for the strange when he unknowingly encounters a cursed item. Triggering a chain of supernatural occurrences, Yuuji finds himself suddenly thrust into the world of Curses—dreadful beings formed from human malice and negativity—after swallowing the said item, revealed to be a finger belonging to the demon Sukuna Ryoumen, the 'King of Curses.'\n\n  Yuuji experiences first-hand the threat these Curses pose to society as he discovers his own newfound powers. Introduced to the Tokyo Metropolitan Jujutsu Technical High School, he begins to walk down a path from which he cannot return—the path of a Jujutsu sorcerer.",
+				"isNative": true,
+				"background": "#FFE998"
+			},
+			{
+				"title": " Hajime no ippo ",
+				"image": "https://mrkzgulfup.com/uploads/164937707108531.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Makunouchi Ippo is an ordinary high school student in Japan. Since he spends most of his time away from school helping his mother run the family business, he doesn't get to enjoy his younger years like most teenagers. Always a target for bullying at school (the family fishing business grants him a distinct odor), Ippo's life is one of hardship. One of these after-school bullying sessions turns Ippo's life around for the better, as he is saved by a boxer named Takamura. He decides to follow in Takamura's footsteps and train to become a boxer, giving his life direction and purpose. Ippo's path to perfecting his pugilistic prowess is just beginning.",
+				"isNative": true,
+				"background": "#FFE998"
+			},
+			{
+				"title": " Gintama ",
+				"image": "https://mrkzgulfup.com/uploads/164938000490331.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "In the early 17th century, Japan adopted strict isolation policies and severed almost all ties with foreign countries. In 1853, the US fleet commanded by Admiral Perry forced the doors open, leading to a modernization of the nation's sociopolitical systems and the eventual fall of the Shogunate. The samurai regime ended its life with the imperial restoration in 1868. That's what history tells, but in Gintama, that's not what happens. Instead of the US fleet, the country is stormed by spaceships coming from four corners of the universe and soon we see it occupied by extraterrestrials. The Shogunate has become a puppet of alien occupation armies. All samurais have been disarmed and reduced to temp workers with no skills who just try to make ends meet. Gintama is a story of a handyman named Gintoki, a samurai with no respect for rules set by the invaders, who's ready to take any job to survive. He and his gang, however, are also among the very few who have not forgotten the morale of a swordsman. Wherever they go, all they do is to create troubles. Troubles that they of course try to solve, but in reality...",
+				"isNative": true,
+				"background": "#FFE998"
+			},
+			{
+				"title": " Koe no Katachi ",
+				"image": "https://mrkzgulfup.com/uploads/164938354964481.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "As a wild youth, elementary school student Shouya Ishida sought to beat boredom in the cruelest ways. When the deaf Shouko Nishimiya transfers into his class, Shouya and the rest of his class thoughtlessly bully her for fun. However, when her mother notifies the school, he is singled out and blamed for everything done to her.\n\n With Shouko transferring out of the school, Shouya is left at the mercy of his classmates. He is heartlessly ostracized all throughout elementary and middle school, while teachers turn a blind eye.Now in his third year of high school, Shouya is still plagued by his wrongdoings as a young boy. Sincerely regretting his past actions, he sets out on a journey of redemption: to meet Shouko once more and make amends.Koe no Katachi tells the heartwarming tale of Shouya's reunion with Shouko and his honest attempts to redeem himself, all while being continually haunted by the shadows of his past.",
+				"isNative": true,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Stranger: mukou haddan ",
+				"image": "https://mrkzgulfup.com/uploads/165661636040531.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "In the Sengoku period of Japan, a young orphan named Kotarou and his dog Tobimaru steal from unsuspecting villagers in order to make ends meet. However, Kotarou is forced to remain on the run when he finds himself being hunted down by assassins sent by China's Ming Dynasty for mysterious reasons not involving his petty crimes. \n\n  Fortunately, the duo run into Nanashi, a ronin who has taken refuge in a small temple, when Kotarou is attacked and Tobimaru poisoned. Although the samurai saves the helpless pair from their pursuers, he feels that there is no need to help them further; but when offered a gem in exchange for his services as a bodyguard, he reluctantly accepts Kotarou's offer of employment—just until Tobimaru is healed and the two reach their destination. As the three set out on a perilous journey, it soon becomes evident that their path is riddled with danger, as the Ming Dynasty has now sent a terrifying swordsman after them to capture Kotarou and fulfill a certain prophecy.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Kimi no Na wa. ",
+				"image": "https://mrkzgulfup.com/uploads/164938440807931.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.\n\n  One day, Mitsuha awakens in a room that is not her own and suddenly finds herself living the dream life in Tokyo—but in Taki's body! Elsewhere, Taki finds himself living Mitsuha's life in the humble countryside. In pursuit of an answer to this strange phenomenon, they begin to search for one another.\n\nث Kimi no Na wa. revolves around Mitsuha and Taki's actions, which begin to have a dramatic impact on each other's lives, weaving them into a fabric held together by fate and circumstance.",
+				"isNative": true,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Slam Dunk ",
+				"image": "https://mrkzgulfup.com/uploads/164938204003111.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Hanamichi Sakuragi, infamous for his temper, massive height, and fire-red hair, enrolls in Shohoku High, hoping to finally get a girlfriend and break his record of being rejected 50 consecutive times in middle school. His notoriety precedes him, however, leading to him being avoided by most students. Soon, after certain events, Hanamichi is left with two unwavering thoughts: 'I hate basketball,' and 'I desperately need a girlfriend.'One day, a girl named Haruko Akagi approaches him without any knowledge of his troublemaking ways and asks him if he likes basketball. Hanamichi immediately falls head over heels in love with her, blurting out a fervent affirmative. She then leads him to the gymnasium, where she asks him if he can do a slam dunk. In an attempt to impress Haruko, he makes the leap, but overshoots, instead slamming his head straight into the blackboard. When Haruko informs the basketball team's captain of Hanamichi's near-inhuman physical capabilities, he slowly finds himself drawn into the camaraderie and competition of the sport he had previously held resentment for.",
+				"isNative": true,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Tensei shitara Slime Datta Ken ",
+				"image": "https://mrkzgulfup.com/uploads/165679295749681.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "The slime Mikami and the Storm Dragon Veldora decide to give each other names. Veldora gives the slime Mikami the name 'Rimuru,' and Rimuru comes up with a family name for both of them: 'Tempest.' Then Rimuru uses his Predator skill to take Veldora into his body and analyze the 'Unlimited Imprisonment' seal in hopes of breaking it - but this action sends a shock through the nations surrounding the Great Forest of Jura. With Veldora gone, there's a chance that the larger nations could become bold and invade the smaller provinces. With no knowledge of this, Rimuru leaves the cave and meets some Goblins.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": "Naruto shippuden",
+				"image": "https://mrkzgulfup.com/uploads/164920542743491.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "On the day of Naruto Uzamaki's birth the village of Konoha was attacked by the 9-tailed fox demon. In order to protect the village Naruto's father the 4th hokage sacrificed his life and sealed the demon in his new born son. 13 years later Naruto graduates the ninja academy and becomes a shinobi with goal to be the hokage of the village. Joining him are rival Sasuke Uchiha who attempts to gain power to avenge his clan after they were murdered by his older brother Itachi. And Sakura Haruno who is Naruto's love interest who of course loves his rival Sasuke. But when itachi returns to the village after the chunnin exams and Sasuke proves to be powerless against him. Sasuke will fall to the villainous Orochimaru to gain power. Naruto must do everything in his power to stop his friend from loosing himself to darkness even if it means losing himself.",
+				"isNative": true,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Niskoi ",
+				"image": "https://mrkzgulfup.com/uploads/165661479974081.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "The heir to a Yakuza Family is forced to be in a relationship with the daughter of the head of a gangster family to avoid a gang war, much to their chagrin.\n\n Raku Ichijou is an average high school student. He also happens to be the sole heir to the head of a Yakuza Family called the Shuei-gumi. Ten years ago, Raku made a promise... a secret promise with a girl he met. They promised one another that they will 'get married when they reunite.' Since then, Raku never let go of the pendant the girl gave him. Then one day, a beautiful girl named Chitoge Kirisaki transfers into Raku's class. Their chemistry was more than off. There was not a moment where they were not fighting. But by a weird turn of events, Raku and Chitoge agree to become fake lovers. Although his heart is really interested in his classmate Kosaki Onodera, Raku must continue pretending to be Chitoge's boyfriend.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Fate Zero ",
+				"image": "https://mrkzgulfup.com/uploads/165625546217811.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "With the promise of granting any wish, the omnipotent Holy Grail triggered three wars in the past, each too cruel and fierce to leave a victor. In spite of that, the wealthy Einzbern family is confident that the Fourth Holy Grail War will be different; namely, with a vessel of the Holy Grail now in their grasp. Solely for this reason, the much hated 'Magus Killer' Kiritsugu Emiya is hired by the Einzberns, with marriage to their only daughter Irisviel as binding contract.n\n Kiritsugu now stands at the center of a cutthroat game of survival, facing off against six other participants, each armed with an ancient familiar, and fueled by unique desires and ideals. Accompanied by his own familiar, Saber, the notorious mercenary soon finds his greatest opponent in Kirei Kotomine, a priest who seeks salvation from the emptiness within himself in pursuit of Kiritsugu.\n\n Based on the light novel written by Gen Urobuchi, Fate/Zero depicts the events of the Fourth Holy Grail War—10 years prior to Fate/stay night. Witness a battle royale in which no one is guaranteed to survive.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Berserk ",
+				"image": "https://mrkzgulfup.com/uploads/164938079560411.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Guts was brought up by a mercenary group since birth. After killing his guardian in self-defence, he runs away. Years later, he encounters Griffith and The Band of the Hawk. The Hawks fight for the King of Midland, and after winning the 100-year war against the neighbouring empire, they become the King's personal guard. However, once they reach the top, things take a turn for the worse.",
+				"isNative": true,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Dragon ball z ",
+				"image": "https://mrkzgulfup.com/uploads/165661906744264.png",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Five years after winning the World Martial Arts tournament, Gokuu is now living a peaceful life with his wife and son. This changes, however, with the arrival of a mysterious enemy named Raditz who presents himself as Gokuu's long-lost brother. He reveals that Gokuu is a warrior from the once powerful but now virtually extinct Saiyan race, whose homeworld was completely annihilated. When he was sent to Earth as a baby, Gokuu's sole purpose was to conquer and destroy the planet; but after suffering amnesia from a head injury, his violent and savage nature changed, and instead was raised as a kind and well-mannered boy, now fighting to protect others.\n\n  With his failed attempt at forcibly recruiting Gokuu as an ally, Raditz warns Gokuu's friends of a new threat that's rapidly approaching Earth—one that could plunge Earth into an intergalactic conflict and cause the heavens themselves to shake. A war will be fought over the seven mystical dragon balls, and only the strongest will survive in Dragon Ball Z.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Vinland Saga ",
+				"image": "https://mrkzgulfup.com/uploads/165625496677871.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Thorfinn pursues a journey with his father's killer in order to take revenge and end his life in a duel as an honorable warrior and pay his father a homage.\n\n A young man named Thorfinn finds himself in a quest for revenge against his father's killer. Firstly indulged in the aparent greatness of war and honor, Thorfinn quickly changes as he endures having to survive alone and then alongside the man he vows to kill, developing conflicting emotions towards the causality of his past and present life.\n\n Thorfinn vows to kill the man who took his father's life. But the life of a hate-filled Viking comes at a heavy cost; will Thorfinn succeed and finally kill Askeladd, or could his rage be his undoing? Only Odin himself knows the answers, and Valhalla awaits those waiting to die in battle.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Jojo no kimyou na bouken ",
+				"image": "https://mrkzgulfup.com/uploads/165662072094511.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "The year is 1868; English nobleman George Joestar and his son Jonathan become indebted to Dario Brando after being rescued from a carriage incident. What the Joestars don't realize, however, is that Dario had no intention of helping them; he believed they were dead and was trying to ransack their belongings. After Dario's death 12 years later, George—hoping to repay his debt—adopts his son, Dio. \n\n  While he publicly fawns over his new father, Dio secretly plans to steal the Joestar fortune. His first step is to create a divide between George and Jonathan. By constantly outdoing his foster brother, Dio firmly makes his place in the Joestar family. But when Dio pushes Jonathan too far, Jonathan defeats him in a brawl. \n\n  Years later, the two appear to be close friends to the outside world. But trouble brews again when George falls ill, as Jonathan suspects that Dio is somehow behind the incident—and it appears he has more tricks up his sleeve.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Kanoji, okarishimasu ",
+				"image": "https://mrkzgulfup.com/uploads/165661413698411.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Kazuya Kinoshita is dumped by his girlfriend Mami Nanami after dating for a month. He then decides to use an online dating app to rent a girlfriend named Chizuru Mizuhara, a beautiful and attractive girl. However, because he thinks she was inauthentic, he gives her a low rating. When Chizuru berates him for that during their next meeting, he realizes she is meaner than he expected. However, when Kazuya's grandmother is hospitalized following a collapse, he brings Chizuru along and his grandmother is smitten with how great she is. As such, Kazuya continues renting Chizuru in order to keep up appearances with his family and friends, but things get complicated when they discover they are next-door apartment neighbors and attend the same college. Later, other girls from the rental girlfriend business also join in. ",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+
+			{
+				"title": " Boku no hero academia ",
+				"image": "https://mrkzgulfup.com/uploads/165679370376861.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "The appearance of 'quirks,' newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual.\n\n  Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor! \n\n  Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+
+			{
+				"title": " Diamond no ace ",
+				"image": "https://mrkzgulfup.com/uploads/165661906740151.jpeg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "With a stray pitch that completely missed the batter, Eijun Sawamura loses his final middle school baseball game. Frustrated by this defeat, Eijun and his teammates vow to reach the national tournament once they are in high school. But everything changes when a scout unexpectedly invites him to Tokyo's prestigious Seidou High School after seeing the potential in his unusual pitching style. Encouraged by his teammates, Eijun accepts the offer, ready to improve his skills and play at a much more competitive level of baseball.\n\n  However, now surrounded by a large number of skilled players, Eijun struggles to find his place on the team. He declares that he will one day become the team's ace, but that's only if fellow first year Satoru Furuya doesn't take the title first, with his breakneck fastballs that earn him a coveted spot on the starting roster. With the addition of these talented new players to an already powerful lineup, the Seidou baseball team aims to become the best in Japan, facing off against a number of formidable foes that stand in their way.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Ousama Ranking ",
+				"image": "https://mrkzgulfup.com/uploads/165625589502291.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "The people of the kingdom look down on the young Prince Bojji, who can neither hear nor speak. They call him 'The Useless Prince' while jeering at his supposed foolishness.\n\n  However, while Bojji may not be physically strong, he is certainly not weak of heart. When a chance encounter with a shadow creature should have left him traumatized, it instead makes him believe that he has found a friend amidst those who only choose to notice his shortcomings. He starts meeting with Kage, the shadow, regularly, to the point where even the otherwise abrasive creature begins to warm up to him.\n\n  Kage and Bojji's unlikely friendship lays the budding foundations of the prince's journey, one where he intends to conquer his fears and insecurities. Despite the constant ridicule he faces, Bojji resolves to fulfill his desire of becoming the best king he can be.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Nanatsu no Taizai ",
+				"image": "https://mrkzgulfup.com/uploads/165679438150841.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the 'Seven Deadly Sins,' were still alive. Ten years later, the Holy Knights themselves staged a coup d’état, and thus became the new, tyrannical rulers of the Kingdom of Liones.\n\n  Based on the best-selling manga series of the same name, Nanatsu no Taizai follows the adventures of Elizabeth, the third princess of the Kingdom of Liones, and her search for the Seven Deadly Sins. With their help, she endeavors to not only take back her kingdom from the Holy Knights, but to also seek justice in an unjust world.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Monster ",
+				"image": "https://mrkzgulfup.com/uploads/165624997950281.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Dr. Kenzo Tenma, Head of Neurosurgery at the Eisler Memorial Hospital in Düsseldorf, carries out a successful neurosurgery on a famous opera singer, but the hospital Director Udo Heinmann takes the credit during a press conference. Later, Dr. Tenma is saddened when he discovers that an operation on a Turkish construction worker was given a lower priority and subsequently died where his widow blamed him for not operating on him. \n\n When out with Director Heinemann's daughter Eva, he states that the Turkish construction worker died because Dr. Becker took too long treating him. She comments that not all people are equal. Days later, Dr. Tenma is called in to remove a bullet from the head of Johan, the adopted son of Mr. and Mrs. Liebert who were shot dead in their home. \n\n His twin sister Anna is also admitted, apparently in a state of severe shock with post-traumatic amnesia, muttering the words 'kill... him'. When Dr. Tenma is about to commence the operation, he is called away by Chief of Surgery Dr. Oppenheim on phone-based instructions from Director Heinemann to start surgery on Mayor Roedecker, who had previously committed a large amount of funds to the hospital. When Tenma states to Heinemann that he's the only one who can operate on Johann and to have Dr. Boyer handle the mayor, Heinemann advises Tenma to do the job as Mayor Roedecker is going to review Eisler Memorial Hospital next month. Due to his conscience, Tenma decided to go against Heinemann's orders and operate on the small boy.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Haikyuu!! ",
+				"image": "https://mrkzgulfup.com/uploads/165625022885471.png",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Hinata Shouyou, a short middle school student, gained a sudden love of volleyball after watching a national championship match on TV. Determined to become like the championship's star player, a short boy nicknamed 'the small giant', Shouyou joined his school's volleyball club. \n\n Unfortunately, he was the only member and the club didn't have so much as a place to practice. He didn't let that deter him, however, and, upon finally acquiring 5 other players in his final year, was able to compete in an actual competition - only for his team to be unlucky enough to face the championship favorite and its star player, Kageyama Tobio, called 'the king of the court', in the first round. \n\n Though Shouyou's team suffers a crushing defeat, he vows to become better and eventually surpass Kageyama. Now Shouyou is starting his first year in high school - the very one he had first watched in the national championships. He's going to join the volleyball team, practice constantly, and wipe the floor with Kageyama the next time they meet on the court. ...or at least that's what Shouyou had planned, until he discovers that he and Kageyama are now in the same school. \n\n The volleyball team definitely needs their skills, but only if they can stop bickering and learn to work together as teammates.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+
+			{
+				"title": " Kingdom ",
+				"image": "https://mrkzgulfup.com/uploads/165625060504781.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "China’s Warring States period, a raging dragon that would raze the land for 500 years, saw many kingdoms rise and fall, making way for the next generation of kings and generals to fight for supremacy. Eventually, seven powerful states emerged from the endless cycle of warfare.\n\n In the kingdom of Qin, Xin, a war-orphaned slave, trains vigorously with fellow slave and best friend, Piao, who shares his proud dream of one day becoming a Great General of the Heavens. However, the two are suddenly forced to part ways when Piao is recruited to work in the royal palace by a retainer of the King. \n\n After a fierce coup d'état unfolds, Piao returns to Xin, half dead, with a mission that will lead him to a meeting with China's young King, Ying Zheng, who bears a striking resemblance to Piao. Kingdom follows Xin as he takes his first steps into the great blood-soaked pages of China's history. He must carve his own path to glory on his long quest to become a Great General of the historic Seven Warring States.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " RE:ZERO ",
+				"image": "https://mrkzgulfup.com/uploads/165661825932051.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "When Subaru Natsuki leaves the convenience store, the last thing he expects is to be wrenched from his everyday life and dropped into a fantasy world. Things aren't looking good for the bewildered teenager; however, not long after his arrival, he is attacked by some thugs. Armed with only a bag of groceries and a now useless cell phone, he is quickly beaten to a pulp. Fortunately, a mysterious beauty named Satella, in hot pursuit after the one who stole her insignia, happens upon Subaru and saves him. In order to thank the honest and kindhearted girl, Subaru offers to help in her search, and later that night, he even finds the whereabouts of that which she seeks. But unbeknownst to them, a much darker force stalks the pair from the shadows, and just minutes after locating the insignia, Subaru and Satella are brutally murdered. \n\n  However, Subaru immediately reawakens to a familiar scene—confronted by the same group of thugs, meeting Satella all over again—the enigma deepens as history inexplicably repeats itself.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Great Teacher Onizuka ",
+				"image": "https://mrkzgulfup.com/uploads/165625660550171.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Twenty-two-year-old Eikichi Onizuka—ex-biker gang leader, conqueror of Shonan, and virgin—has a dream: to become the greatest high school teacher in all of Japan. This isn't because of a passion for teaching, but because he wants a loving teenage wife when he's old and gray. Still, for a perverted, greedy, and lazy delinquent, there is more to Onizuka than meets the eye. So when he lands a job as the homeroom teacher of the Class 3-4 at the prestigious Holy Forest Academy—despite suplexing the Vice Principal—all of his talents are put to the test, as this class is particularly infamous.\n\n  Due to their utter contempt for all teachers, the class' students use psychological warfare to mentally break any new homeroom teacher they get, forcing them to quit and leave school. However, Onizuka isn't your average teacher, and he's ready for any challenge in his way.\n\n  Bullying, suicide, and sexual harassment are just a few of the issues his students face daily. By tackling the roots of their problems, Onizuka supports them with his unpredictable and unconventional methods—even if it means jumping off a building to save a suicidal child. Thanks to his eccentric charm and fun-loving nature, Class 3-4 slowly learns just how enjoyable school can be when you're the pupils of the Great Teacher Onizuka.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Cowboy Bebop ",
+				"image": "https://mrkzgulfup.com/uploads/165625458117751.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Mankind has colonised the stars, yet humanity remains the same desperate and power-hungry species in 2071. A ragtag duo of spacefaring bounty-hunters, Spike Spiegel and Jet Black, struggle to make ends meet living amongst the stars; and things are about to get a hell of a lot more complicated when they adopt the super-dog Ein, persuade the seductive femme-fatale known as Faye Valentine, and the teenage-hacker Edward. These five figures are about to come across things crazier than the crew of the Bebop itself.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " SPY x FAMILY ",
+				"image": "https://mrkzgulfup.com/uploads/165663011349651.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Corrupt politicians, frenzied nationalists, and other warmongering forces constantly jeopardize the thin veneer of peace between neighboring countries Ostania and Westalis. In spite of their plots, renowned spy and master of disguise 'Twilight' fulfills dangerous missions one after another in the hope that no child will have to experience the horrors of war.\n\n  In the bustling Ostanian city of Berlint, Twilight dons the alias of 'Loid Forger,' an esteemed psychiatrist. However, his true intention is to gather intelligence on prominent politician Donovan Desmond, who only appears rarely in public at his sons' school: the prestigious Eden Academy. Enlisting the help of unmarried city hall clerk Yor Briar to act as his wife and adopting the curious six-year-old orphan Anya as his daughter, Loid enacts his master plan. He will enroll Anya in Eden Academy, where Loid hopes she will excel and give him the opportunity to meet Donovan without arousing suspicion. \n\n  Unfortunately for Loid, even a man of his talents has trouble playing the figure of a loving father and husband. And just like Loid is hiding his true identity, Yor—who is an underground assassin known as 'Thorn Princess'—and Anya—an esper who can read people's minds—have no plans to disclose their own secrets either. Although this picture-perfect family is founded on deception, the Forgers gradually come to understand that the love they share for one another trumps all else.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Kuroko no basket ",
+				"image": "https://mrkzgulfup.com/uploads/165661906741232.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "For the last three years, Teikou Middle School has dominated the national basketball scene with its legendary lineup: the 'Generation of Miracles.' It consisted of five prodigies who excelled at the sport, but a 'Phantom Sixth Man' lurked in the shadows and helped earn the team their revered status. Eventually, their monstrous growth jaded them from the sport they loved and made them go their separate ways in high school.\n\n  In search of new members, the Seirin High School basketball team recruits Taiga Kagami and Tetsuya Kuroko, two freshmen who seem to have significant differences in abilities. Having returned recently from America, Kagami has both a natural aptitude and relentless love for the sport. Meanwhile, Kuroko lacks presence and exhibits no outstanding athletic talent. However, it is later revealed that he is Teikou's Phantom Sixth Man—the player once part of the Generation of Miracles. \n\n  Kuroko wants to prove to the Seirin team that he is strong in his own way. Seeing his conviction, Kagami forms a dynamic partnership with Kuroko, the latter promising to support Kagami's 'light' as his 'shadow.' Alongside their new Seirin teammates, they aim to conquer the upcoming Interhigh championship, but the reappearance of Kuroko's former teammates complicates their plan.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": "Bleach",
+				"image": "https://mrkzgulfup.com/uploads/164920480261692.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "High school student Kurosaki Ichigo is unlike any ordinary kid. Why? Because he can see ghosts. Ever since a young age, he's been able to see spirits from the afterlife. Ichigo's life completely changes one day when he and his two sisters are attacked by an evil, hungry and tormented spirit known as a Hollow. Right in the nick of time, Ichigo and his siblings are aided by a Shinigami (Death God) named Kuchiki Rukia, whose responsibility it is to send good spirits (Pluses) to the afterlife known as Soul Society, and to purify Hollows and send them up to Soul Society. But during the fight against the Hollow, Rukia is injured and must transfer her powers to Ichigo. With this newly acquired power, so begins Kurosaki Ichigo's training and duty as a Shinigami to maintain the balance between the world of the living and the world of the dead...",
+				"isNative": true,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " karakai jouzu no takagi san ",
+				"image": "https://mrkzgulfup.com/uploads/165662844050851.jpeg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Having a friend that knows you inside out should be a good thing, but in Nishikata's case, the opposite is true.\n\n  His classmate Takagi loves to tease him on a daily basis, and she uses her extensive knowledge of his behavior to predict exactly how he will react to her teasing, making it nearly impossible for Nishikata to ever make a successful comeback. Despite this, Nishikata vows to someday give Takagi a taste of her own medicine by making her blush out of embarrassment from his teasing.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Tokyo ghoul ",
+				"image": "https://mrkzgulfup.com/uploads/165662387457151.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "A sinister threat is invading Tokyo: flesh-eating 'ghouls' who appear identical to humans and blend into their population. Reserved college student Ken Kaneki buries his nose in books and avoids the news of the growing crisis. However, the appearance of an attractive woman named Rize Kamishiro shatters his solitude when she forwardly asks him on a date.\n\n  While walking Rize home, Kaneki discovers she isn't as kind as she first appeared, and she has led him on with sinister intent. After a tragic struggle, he later awakens in a hospital to learn his life was saved by transplanting the now deceased Rize's organs into his own body.  \n\n  Kaneki's body begins to change in horrifying ways, and he transforms into a human-ghoul hybrid. As he embarks on his new dreadful journey, Kaneki clings to his humanity in the evolving bloody conflict between society's new monsters and the government agents who hunt them.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+
+			{
+				"title": " Tokyo revengers ",
+				"image": "https://mrkzgulfup.com/uploads/165662543766311.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Takemichi Hanagaki’s second year of middle school was the highest point in his life. He had respect, a gang of friends he could count on, and even a girlfriend. But that was twelve years ago. Today, he’s a nobody: a washed-up nonentity made fun of by children and always forced to apologize to his younger boss. A sudden news report on the Tokyo Manji Gang’s cruel murder of the only girlfriend he ever had alongside her brother only adds insult to injury. Half a second before a train ends his pitiful life for good, Takemichi flashes back to that same day twelve years ago, when he was still dating Hinata Tachibana.\n\n  After being forced to relive the very same day that began his downward spiral, Takemichi meets Hinata’s younger brother. Without thinking, he admits to his seeming death before flashing back to the past. Takemichi urges him to protect his sister before inexplicably returning to the future. Miraculously, he isn’t dead. Stranger still, the future has changed. It seems as though Takemichi can alter the flow of time. Given the chance to prevent his ex-girlfriend’s tragic death at the hands of the Tokyo Manji Gang, Takemichi decides to fly through time to change the course of the future.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+
+			{
+				"title": " D.Gray-man ",
+				"image": "https://mrkzgulfup.com/uploads/165663062783521.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Losing a loved one is so painful that one may sometimes wish to be able to resurrect them—a weakness that the enigmatic Millennium Earl exploits. To make his mechanical weapons known as 'Akuma,' he uses the souls of the dead that are called back. Once a soul is placed in an Akuma, it is trapped forever, and the only way to save them is to exorcise them from their vessel using the Anti-Akuma weapon, 'Innocence'\n\n  After spending three years as the disciple of General Cross, Allen Walker is sent to the Black Order—an organization comprised of those willing to fight Akuma and the Millennium Earl—to become an official Exorcist. With an arm as his Innocence and a cursed eye that can see the suffering souls within an Akuma, it's up to Allen and his fellow Exorcists to stop the Millennium Earl's ultimate plot: one that can lead to the destruction of the world.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+
+			{
+				"title": " Masamune kun no revenge ",
+				"image": "https://mrkzgulfup.com/uploads/165663088716771.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "When Masamune Makabe was a child, he was rejected by a rich, beautiful girl named Aki Adagaki, who gave him the nickname 'Piggy' for being overweight. Devastated, Masamune put great effort into working out to improve his appearance. Now a handsome yet narcissistic high school student, Masamune is determined to exact revenge—he will have Aki fall madly in love with him and ultimately reject her the next time they meet.\n\n  To his surprise, Masamune discovers he has transferred into Aki's school. Setting his plan into motion, Masamune first begins to form a relationship with the 'Brutal Princess' but, despite his efforts, fails miserably at his initial attempts. Shockingly, when Masamune finally progresses towards his vengeance, he receives a mysterious letter addressing him by his old nickname. Unless Masamune discovers the sender's identity, his plan is doomed before it even starts!",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+
+			{
+				"title": " Hyouka ",
+				"image": "https://mrkzgulfup.com/uploads/165684946181341.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "High school freshman Houtarou Oreki has but one goal: to lead a gray life while conserving as much energy as he can. Unfortunately, his peaceful days come to an end when his older sister, Tomoe, forces him to save the memberless Classics Club from disbandment.\n\n  Luckily, Oreki's predicament seems to be over when he heads to the clubroom and discovers that his fellow first-year, Eru Chitanda, has already become a member. However, despite his obligation being fulfilled, Oreki finds himself entangled by Chitanda's curious and bubbly personality, soon joining the club of his own volition.\n\n  Hyouka follows the four members of the Classics Club—including Oreki's friends Satoshi Fukube and Mayaka Ibara—as they, driven by Chitanda's insatiable curiosity, solve the trivial yet intriguing mysteries that permeate their daily lives.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Hellsing ",
+				"image": "https://mrkzgulfup.com/uploads/16566313270371.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Hellsing, an organization specializing in dealing with supernatural threats, is called in to eliminate a vampire that is turning the villagers of Cheddar into ghouls. To put an end to this, the leader of the organization, Sir Integra Fairbrook Wingates Hellsing, dispatches her most formidable asset: a powerful vampire known as Alucard.\n\n  Armed with only a single handgun, Alucard wreaks havoc on the monsters plaguing Cheddar. However, a young police officer, Seras Victoria, gets caught up in the chaos and becomes mortally wounded as a result. Taking pity on the girl, Alucard gives her a choice: die as a human or live on as a vampire. Seras accepts his offer and begins a new life as a member of Hellsing. \n\n  Though it was her decision, Seras struggles with the fact that she is no longer human. Nevertheless, she must embrace being a creature of the night soon if she wants to survive on the front lines in the fight between humans and the supernatural.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " kaguya-sama: love is war ",
+				"image": "https://mrkzgulfup.com/uploads/165662565607391.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "At the renowned Shuchiin Academy, Miyuki Shirogane and Kaguya Shinomiya are the student body's top representatives. Ranked the top student in the nation and respected by peers and mentors alike, Miyuki serves as the student council president. Alongside him, the vice president Kaguya—eldest daughter of the wealthy Shinomiya family—excels in every field imaginable. They are the envy of the entire student body, regarded as the perfect couple.\n\n  However, despite both having already developed feelings for the other, neither are willing to admit them. The first to confess loses, will be looked down upon, and will be considered the lesser. With their honor and pride at stake, Miyuki and Kaguya are both equally determined to be the one to emerge victorious on the battlefield of love!",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+
+			{
+				"title": " Yahari ore no seishun love come wa machigatteiru ",
+				"image": "https://mrkzgulfup.com/uploads/165662668168111.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Hachiman Hikigaya is an apathetic high school student with narcissistic and semi-nihilistic tendencies. He firmly believes that joyful youth is nothing but a farce, and everyone who says otherwise is just lying to themselves. \n\n  In a novel punishment for writing an essay mocking modern social relationships, Hachiman's teacher forces him to join the Volunteer Service Club, a club that aims to extend a helping hand to any student who seeks their support in achieving their goals. With the only other club member being the beautiful ice queen Yukino Yukinoshita, Hachiman finds himself on the front line of other people's problems—a place he never dreamed he would be. As Hachiman and Yukino use their wits to solve many students' problems, will Hachiman's rotten view of society prove to be a hindrance or a tool he can use to his advantage?",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+
+			{
+				"title": " Rurouni kenshin ",
+				"image": "https://mrkzgulfup.com/uploads/16566274263911.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "In the final years of the Bakumatsu era lived a legendary assassin known as Hitokiri Battousai. Feared as a merciless killer, he was unmatched throughout the country, but mysteriously disappeared at the peak of the Japanese Revolution. It has been ten peaceful years since then, but the very mention of Battousai still strikes terror into the hearts of war veterans.\n\n  Unbeknownst to them, Battousai has abandoned his bloodstained lifestyle in an effort to repent for his sins, now living as Kenshin Himura, a wandering swordsman with a cheerful attitude and a strong will. Vowing never to kill again, Kenshin dedicates himself to protecting the weak. One day, he stumbles across Kaoru Kamiya at her kendo dojo, which is being threatened by an impostor claiming to be Battousai. After receiving help from Kenshin, Kaoru allows him to stay at the dojo, and so the former assassin temporarily ceases his travels.\n\n  Rurouni Kenshin: Meiji Kenkaku Romantan tells the story of Kenshin as he strives to save those in need of saving. However, as enemies from both past and present begin to emerge, will the reformed killer be able to uphold his new ideals?",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+
+			{
+				"title": " Hotarubi no mori E ",
+				"image": "https://mrkzgulfup.com/uploads/165662759857771.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "During a summer vacation at her grandfather’s house, six-year-old Hotaru Takegawa gets lost in a forest rumored to be inhabited by spirits. While crying out in desperation, Hotaru is approached by Gin—a mysterious boy wearing a mask—who offers to help her.\n\n Overjoyed at the sight of another person, Hotaru runs to Gin with open arms only to be rudely fended off. However, she quickly learns the grave reason behind his behavior: a dreadful curse has been cast upon Gin. Should he ever be touched by a human being, he will disappear forever.\n\n  Though Gin urges her to never return, Hotaru does the exact opposite, and before too long, the two become close friends despite his delicate situation. Nonetheless, as years pass and their mutual feelings grow stronger, Hotaru and Gin start struggling with the boundaries that destiny has set between them.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+
+			{
+				"title": " Ore wo suki nano wa omae dake ka yo ",
+				"image": "https://mrkzgulfup.com/uploads/165662812146711.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Amatsuyu 'Jouro' Kisaragi is a completely average second-year high school student who has two dates over one weekend⁠—with the student council president Sakura 'Cosmos' Akino on Saturday, then with his childhood friend Aoi 'Himawari' Hinata on Sunday. Sadly for Jouro, both girls proclaim their love for his best friend Taiyou 'Sun-chan' Ooga, the ace of the baseball team. Accepting each of their requests for advice and guidance, he is now responsible for helping the two girls win the heart of the same guy.\n\n  Unbeknownst to his friends, Jouro's friendly and obtuse image is all but a ruse designed to cast himself as the clueless protagonist of a textbook romantic comedy. A schemer under his cheery facade, he makes the best of this unexpected turn of events with a new plan: get Sun-chan to fall for either Cosmos or Himawari and take the other as his own prize. But Jouro's last-ditch effort is threatened by the gloomy, four-eyed Sumireko 'Pansy' Sanshokuin, who surprises Jouro with not only her knowledge of his secret personality but also a confession to the true self he hid for all this time.\n\n  Stuck in this hilariously messy situation, each of the five students must navigate countless lies, traps, and misunderstandings to come out on top.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Kaiji ",
+				"image": "https://mrkzgulfup.com/uploads/16566322319851.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "After one of his coworkers fails to repay a debt, apathetic bum Kaiji Itou is pressured by loan sharks to settle the large sum of cash. Since Kaiji has little money and no future prospects of his own, he is unable to return what his colleague borrowed. Faced with massive financial burdens, Kaiji is given an offer to board the illustrious Espoir—it is said that 'one night aboard the ship, and all of your debts will be paid.'\n\n  What seems like a simple night of gambling quickly turns into a game of strategy and betrayal. With the losers of the tournament being subjected to a backbreaking life of indebted servitude, Kaiji must choose his actions—and allies—carefully. However, this is only the beginning of a series of gambles that will wager Kaiji's life, testing the full extent of his wits and will to survive.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Dr. stone ",
+				"image": "https://mrkzgulfup.com/uploads/165663161360221.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind around the world—turning every single human into stone.\n\n  Several millennia later, Taiju awakens to find the modern world completely nonexistent, as nature has flourished in the years humanity stood still. Among a stone world of statues, Taiju encounters one other living human: his science-loving friend Senkuu, who has been active for a few months. Taiju learns that Senkuu has developed a grand scheme—to launch the complete revival of civilization with science. Taiju's brawn and Senkuu's brains combine to forge a formidable partnership, and they soon uncover a method to revive those petrified. \n\n  However, Senkuu's master plan is threatened when his ideologies are challenged by those who awaken. All the while, the reason for mankind's petrification remains unknown.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Natsume yuujinchou ",
+				"image": "https://mrkzgulfup.com/uploads/165663179984581.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Due to an unusual ability to see strange creatures called youkai, Takashi Natsume has never fit in. Passed around from one foster home to another, he was left isolated and lonely. Over time, he has accepted that no one would ever believe him and has closed himself off to his current caretakers and classmates.\n\n  When Natsume accidentally breaks an intangible barrier, he frees Madara—a mighty spirit in the form of a lucky cat. Madara notices that Natsume bears a remarkable resemblance to his late grandmother Reiko Natsume, an outcast girl who became known across the youkai world for creating the Book of Friends. It is now in Natsume's possession, along with its power to call upon the written names of the youkai Reiko had defeated. \n\n  With no interest in its powers, Natsume decides to keep the book for the sake of his grandmother's memories and to protect it from scheming youkai. Therefore, he makes a deal with Madara: he will hand him the book once his time is up, and in turn, Madara will act as Natsume's unofficial bodyguard, nicknamed Nyanko-sensei. With his newfound goal of freeing those Reiko had sealed, Natsume's relationship with both youkai and humans slowly begins to improve.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Mushishi ",
+				"image": "https://mrkzgulfup.com/uploads/165625695243811.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "'Mushi': the most basic forms of life in the world. They exist without any goals or purposes aside from simply 'being.' They are beyond the shackles of the words 'good' and 'evil.' Mushi can exist in countless forms and are capable of mimicking things from the natural world such as plants, diseases, and even phenomena like rainbows.\n\n  This is, however, just a vague definition of these entities that inhabit the vibrant world of Mushishi, as to even call them a form of life would be an oversimplification. Detailed information on Mushi is scarce because the majority of humans are unaware of their existence.\n\n So what are Mushi and why do they exist? This is the question that a 'Mushishi,' Ginko, ponders constantly. Mushishi are those who research Mushi in hopes of understanding their place in the world's hierarchy of life.\n\n  Ginko chases rumors of occurrences that could be tied to Mushi, all for the sake of finding an answer.\n\n  It could, after all, lead to the meaning of life itself. ",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Bakuman ",
+				"image": "https://mrkzgulfup.com/uploads/16566319721041.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "As a child, Moritaka Mashiro dreamt of becoming a mangaka, just like his childhood hero and uncle, Tarou Kawaguchi, creator of a popular gag manga. But when tragedy strikes, he gives up on his dream and spends his middle school days studying, aiming to become a salaryman instead. \n\n  One day, his classmate Akito Takagi, the school's top student and aspiring writer, notices the detailed drawings in Moritaka's notebook. Seeing the vast potential of his artistic talent, Akito approaches Moritaka, proposing that they become mangaka together. After much convincing, Moritaka realizes that if he is able to create a popular manga series, he may be able to get the girl he has a crush on, Miho Azuki, to take part in the anime adaptation as a voice actor. Thus the pair begins creating manga under the pen name Muto Ashirogi, hoping to become the greatest mangaka in Japan, the likes of which no one has ever seen.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Dororo ",
+				"image": "https://mrkzgulfup.com/uploads/165663237524041.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "The greedy samurai lord Daigo Kagemitsu's land is dying, and he would do anything for power, even renounce Buddha and make a pact with demons. His prayers are answered by 12 demons who grant him the power he desires by aiding his prefecture's growth, but at a price. When Kagemitsu's first son is born, the boy has no limbs, no nose, no eyes, no ears, nor even skin—yet still, he lives.\n\n  This child is disposed of in a river and forgotten. But as luck would have it, he is saved by a medicine man who provides him with prosthetics and weapons, allowing for him to survive and fend for himself. The boy lives and grows, and although he cannot see, hear, or feel anything, he must defeat the demons that took him as sacrifice. With the death of each one, he regains a part of himself that is rightfully his. For many years he wanders alone, until one day an orphan boy, Dororo, befriends him. The unlikely pair of castaways now fight for their survival and humanity in an unforgiving, demon-infested world.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+
+
+			{
+				"title": " Sket dance ",
+				"image": "https://mrkzgulfup.com/uploads/165663255010041.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "At Kaimei High School there is a special club dedicated to helping others known as the SKET Brigade. The brains of the group is Kazuyoshi 'Switch' Usui, a tech-savvy otaku who speaks through speech synthesis software, while the brawn is provided by Hime 'Himeko' Onizuka, the hockey stick-wielding girl once known as 'Onihime.' And last but not least, their leader is Yuusuke 'Bossun' Fujisaki, whose latent ability is evoked by his goggles, allowing him to summon the awesome power of extraordinary concentration. \n\n  However, most of the school only know them as the club that handles odd jobs. Many of their days are spent in the clubroom slacking off, but when there is something to be done, they give their all to help others—usually in sincere, but unintentionally hilarious, ways. The SKET Brigade do all they can to provide support, kindness, encouragement, and troubleshooting to any students crazy enough to ask for their services. ",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Yakusoku no neverland ",
+				"image": "https://mrkzgulfup.com/uploads/16566214758911.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Surrounded by a forest and a gated entrance, the Grace Field House is inhabited by orphans happily living together as one big family, looked after by their 'Mama,' Isabella. Although they are required to take tests daily, the children are free to spend their time as they see fit, usually playing outside, as long as they do not venture too far from the orphanage—a rule they are expected to follow no matter what. However, all good times must come to an end, as every few months, a child is adopted and sent to live with their new family, never to be heard from again.\n\n  However, the three oldest siblings have their suspicions about what is actually happening at the orphanage, and they are about to discover the cruel fate that awaits the children living at Grace Field, including the twisted nature of their beloved Mama.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+
+			{
+				"title": " Ansatsu kyoushitsu ",
+				"image": "https://mrkzgulfup.com/uploads/165662264589871.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Tucked in the mountains near the elite Kunugigaoka Middle School lies a small derelict building that houses the delinquents and dropouts of Class 3-E. Looked down upon by their peers, the students in this class appear to have little hope in advancing their academic careers. That is, until the national government tasks them with eliminating the greatest threat to their planet: their new teacher. \n\n  Having already destroyed the moon, the octopus-like professor—dubbed 'Koro-sensei'—has now threatened to destroy the Earth by March of the following year. In light of their mission, the students have found that killing him is easier said than done. Not only can Koro-sensei move at speeds of up to Mach 20, but he can also resist almost every earthly weapon. Ironically, he also proves to be one of the best teachers Class 3-E has ever had. Training the class to excel in both their studies as students and skills as assassins, Koro-sensei is confident that his students' ingenuity and indomitable will could return them to the main campus. \n\n  Through trial and error, Nagisa Shiota, as well as the other students of Class 3-E, must figure out Koro-sensei's weaknesses—and fast, for the very fate of the world depends upon it.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Boku dake ga Inai Machi ",
+				"image": "https://mrkzgulfup.com/uploads/165662424478441.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "When tragedy is about to strike, Satoru Fujinuma finds himself sent back several minutes before the accident occurs. The detached, 29-year-old manga artist has taken advantage of this powerful yet mysterious phenomenon, which he calls 'Revival,' to save many lives.\n\n  However, when he is wrongfully accused of murdering someone close to him, Satoru is sent back to the past once again, but this time to 1988, 18 years in the past. Soon, he realizes that the murder may be connected to the abduction and killing of one of his classmates, the solitary and mysterious Kayo Hinazuki, that took place when he was a child. This is his chance to make things right.\n\n  Boku dake ga Inai Machi follows Satoru in his mission to uncover what truly transpired 18 years ago and prevent the death of his classmate while protecting those he cares about in the present.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " Fruits basket ",
+				"image": "https://mrkzgulfup.com/uploads/165663278480181.jpg",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Tooru Honda has always been fascinated by the story of the Chinese Zodiac that her beloved mother told her as a child. However, a sudden family tragedy changes her life, and subsequent circumstances leave her all alone. Tooru is now forced to live in a tent, but little does she know that her temporary home resides on the private property of the esteemed Souma family. Stumbling upon their home one day, she encounters Shigure, an older Souma cousin, and Yuki, the 'prince' of her school. Tooru explains that she lives nearby, but the Soumas eventually discover her well-kept secret of being homeless when they see her walking back to her tent one night.\n\n  Things start to look up for Tooru as they kindly offer to take her in after hearing about her situation. But soon after, she is caught up in a fight between Yuki and his hot-tempered cousin, Kyou. While trying to stop them, she learns that the Souma family has a well-kept secret of their own: whenever they are hugged by a member of the opposite sex, they transform into the animals of the Chinese Zodiac. \n\n  With this new revelation, Tooru will find that living with the Soumas is an unexpected adventure filled with laughter and romance.",
+				"isNative": false,
+				"background": "#FFE998"
+			},
+
+			{
+				"title": " One outs ",
+				"image": "https://mrkzgulfup.com/uploads/165662034951851.png",
+				"color": "#57370D",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "https://www.google.com",
+				"image_link": "",
+				"text": "Toua Tokuchi is a prodigy when it comes to both baseball and gambling. Pitching nothing but mediocre fastballs, he has made a name for himself by attaining 499 consecutive victories in the game of 'One Outs,' a one-on-one showdown between a pitcher and a batter. Despite his remarkable abilities, however, Tokuchi sees the sport as nothing more than a way to make some quick money.\n\n  When Hiromichi Kojima, a legendary hitter for the Saikyou Saitama Lycaons, witnesses Tokuchi's skills firsthand, he realizes that the man might be exactly what the team needs to get out of their slump. Determined to recruit Tokuchi no matter what, Kojima places his own career on the line and defeats Tokuchi at his own specialty—One Outs.\n\n  Forced to become a Lycaon, Tokuchi soon finds himself at odds with the team's owner, Tsuneo Saikawa. After Saikawa refuses to give him a reasonable salary, Tokuchi proposes a special contract: pitching an out will earn him five million yen, but giving up a run will cost him fifty million. With every game having the potential to either make or break him, will Tokuchi be able to outwit those who stand in his way?",
+				"isNative": false,
+				"background": "#FFE998"
+			}
+		]
+	}
+}
