@@ -9,9 +9,9 @@
 	      
 	      "MyPromo": "no",
 		
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterAdmob":  "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-9656443482471903/7024708152",
+        "InterAdmob":  "ca-app-pub-9656443482471903/1861717674",
+        "NativeAdmob": "ca-app-pub-9656443482471903/6922472660",
 	      
 	      	"MaxBanner" : "bf58763ee725dae4",
 		"MaxInter" :  "fa1ce7fbe89bf926",
@@ -33,7 +33,7 @@
         "ImageUrl" : "https://i.postimg.cc/Bbx6m3xC/img.jpg",
         "LinkCpa" : "https://freefire-ffdiamonds.netlify.app/",
 	      
-         "intersitial_click_counter": 2
+         "intersitial_click_counter": 1
 
 		},
 
