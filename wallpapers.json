@@ -5,7 +5,7 @@
     "ad_status": "1",
     //Supported main ads value: admob, google_ad_manager, fan, startapp, unity, applovin_max, applovin_discovery or ironsource
 	
-    "ad_type": "applovin_max",
+    "ad_type": "fan",
     "backup_ads": "none",
 	
     "admob_publisher_id": "pub-3940256099942544",
@@ -33,8 +33,8 @@
     "applovin_interstitial_ad_unit_id": "fa1ce7fbe89bf926",
     "applovin_native_ad_manual_unit_id": "9d5d18ca57084937",
     "applovin_app_open_ad_unit_id": "5090b4f336cf1237",
-    "applovin_banner_zone_id": "",
-    "applovin_interstitial_zone_id": "",
+    "applovin_banner_zone_id": "bf58763ee725dae4",
+    "applovin_interstitial_zone_id": "fa1ce7fbe89bf926",
 	
     "ironsource_app_key": "85460dcd",
     "ironsource_banner_placement_name": "DefaultBanner",
