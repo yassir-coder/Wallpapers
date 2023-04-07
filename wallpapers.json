@@ -31,10 +31,10 @@
 	
     "applovin_banner_ad_unit_id": "bf58763ee725dae4",
     "applovin_interstitial_ad_unit_id": "fa1ce7fbe89bf926",
-    "applovin_native_ad_manual_unit_id": "145ea6b5bc08ad72",
+    "applovin_native_ad_manual_unit_id": "9d5d18ca57084937",
     "applovin_app_open_ad_unit_id": "5090b4f336cf1237",
-    "applovin_banner_zone_id": "bf58763ee725dae4",
-    "applovin_interstitial_zone_id": "fa1ce7fbe89bf926",
+    "applovin_banner_zone_id": "",
+    "applovin_interstitial_zone_id": "",
 	
     "ironsource_app_key": "85460dcd",
     "ironsource_banner_placement_name": "DefaultBanner",
