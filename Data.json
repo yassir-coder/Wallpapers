@@ -4,8 +4,8 @@
       {
 		  
         "BannerAd": "max",
-        "InterstitialAd": "max",
-        "NativeAd": "max",
+        "InterstitialAd": "admob",
+        "NativeAd": "facebook",
 	      
 	      "MyPromo": "no",
 		
