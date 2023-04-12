@@ -3,9 +3,9 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "facebook",
+        "BannerAd": "admob",
         "InterstitialAd": "max",
-        "NativeAd": "facebook",
+        "NativeAd": "admob",
 	      
 	      "MyPromo": "no",
 		
