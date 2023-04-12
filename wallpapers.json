@@ -5,7 +5,7 @@
     "ad_status": "1",
     //Supported main ads value: admob, google_ad_manager, fan, startapp, unity, applovin_max, applovin_discovery or ironsource
 	
-    "ad_type": "applovin_max",
+    "ad_type": "fan",
     "backup_ads": "none",
 	
     "admob_publisher_id": "pub-9656443482471903",
@@ -19,9 +19,9 @@
     "ad_manager_native_unit_id": "/6499/example/native",
     "ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
 	
-    "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-    "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-    "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+    "fan_banner_unit_id": "1882128098831131_1882128988831042",
+    "fan_interstitial_unit_id": "1882128098831131_1882129075497700",
+    "fan_native_unit_id": "1882128098831131_1882129155497692",
 	
     "startapp_app_id": "0",
 	
