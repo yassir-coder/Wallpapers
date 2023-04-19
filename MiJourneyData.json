@@ -9,10 +9,10 @@
 	      
 	      "MyPromo": "no",
 		
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterAdmob":  "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-	"OpenAdmob": "ca-app-pub-3940256099942544/3419835294",
+        "BannerAdmob": "ca-app-pub-9656443482471903/3359523790",
+        "InterAdmob":  "ca-app-pub-9656443482471903/6848214802",
+        "NativeAdmob": "ca-app-pub-9656443482471903/6885256716",
+	"OpenAdmob": "ca-app-pub-9656443482471903/8743750401",
 
 	      	"MaxBanner" : "44ce4d66b0386cf7",
 		"MaxInter" :  "467ca2b3d4e49cb6",
