@@ -1,0 +1,257 @@
+{
+	  "GuideData": {
+    "AdsController": 
+      {
+		  
+        "BannerAd": "max",
+        "InterstitialAd": "admob",
+        "NativeAd": "facebook",
+	      
+	      "MyPromo": "no",
+		
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterAdmob":  "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+	"OpenAdmob": "ca-app-pub-3940256099942544/3419835294",
+
+	      	"MaxBanner" : "YOUR_AD_UNIT_ID",
+		"MaxInter" :  "YOUR_AD_UNIT_ID",
+		"MaxNative" : "YOUR_AD_UNIT_ID",
+	     
+        "FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
+        "FanInter":  "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
+        "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
+	"NativeFacebookSingle": "IMG_16_9_APP_INSTALL#825738315329934_826124475291318",
+		
+		"ironsource_appKey": "1011dee21",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+		
+        "Cpa": false,
+        "ImageUrl" : "https://i.postimg.cc/Bbx6m3xC/img.jpg",
+        "LinkCpa" : "https://freefire-ffdiamonds.netlify.app/",
+	      
+         "intersitial_click_counter": 2
+
+		},
+
+    "items": [
+	    
+	      {
+        "title": "Scott Shelly",
+        "image": "https://i.pinimg.com/564x/ec/0f/ef/ec0fefd62c9b13aa9fd1115f4e337815.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Scott Shelly:  ( Hangul:셸리 스콧 ) one of the female protagonists in the webtoon. She begins a one-sided relationship with Jay at the start of the series but as the story progress they have a mutual crush on each other and as of chapter 378 they are in a relationship. Shelly is the only female member of the Humming Bird Crew.  \n\n  Anime: Windbreaker",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	    	    {
+        "title": "Noah",
+        "image": "https://i.pinimg.com/564x/fa/7d/a0/fa7da050f7bee42a462141a57f67328c.jpg",
+        "color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Noah: She is tall among other women in the series. She has pale skin, light blue eyes and a curvy figure. Her hair is blue and purple towards the ends. People consider her attractive, almost as attractive as Shelly. \n\n  Anime: windbreaker",
+        "isNative": false,
+		"background": "#6DA9E4"
+      },
+	    	    {
+        "title": "Mia Kim",
+        "image": "https://i.pinimg.com/736x/52/9d/32/529d326349317c85d315a354888a8b32.jpg",
+        "color": "#111111",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Mia Kim: Mia Kim is a support character of Wind Breaker. She is currently a senior at Sunny High School in the same homeroom class as Yuna and Minu. She helped the Humming Bird crew create their logo.",
+        "isNative": false,
+		"background": "#E74646"
+      },
+	      {
+        "title": "Yumi Lee",
+        "image": "https://i.pinimg.com/564x/1f/7f/f5/1f7ff510a3ba9ab96ae6c8acbc957d31.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Who is Yumi in Wind Breaker? Yumi is the leader of the Tarantula crew. ",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	  
+
+	    {
+        "title": "Lee Jihyun",
+        "image": "https://i.postimg.cc/x8nQSNQ0/f49a6933196979920c5954a4443d0946.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "QUEST SUPREMACY - YAKUZA THEORY - YANG GUKJA & LEE JIHYUN",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	      	    	  {
+        "title": " 5-toubun no hanayome ",
+        "image": "https://mrkzgulfup.com/uploads/165662497241661.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Fuutarou Uesugi is an ace high school student, but leads an otherwise tough life. His standoffish personality and reclusive nature have left him friendless, and his father is debt-ridden, forcing his family to scrape by.\n\n  One day during his lunch break, Uesugi argues with a female transfer student who has claimed 'his seat,' leading both of them to dislike each other. That same day, he is presented with a golden opportunity to clear his family's debt: a private tutoring gig for a wealthy family's daughter, with a wage of five times the market price. He accepts the proposal, but is horrified to discover that the client, Itsuki Nakano, is the girl he confronted earlier! \n\n  After unsuccessfully trying to get back on Itsuki's good side, Uesugi finds out that his problems don't end there: Itsuki is actually a quintuplet, so in addition to her, he must also tutor her sisters—Miku, Yotsuba, Nino, and Ichika—who, despite the very real threat of flunking, want nothing to do with a tutor. However, his family's livelihood is on the line so Uesugi pushes on, adamant in his resolve to rid the sisters of their detest for studying and successfully lead them to graduation.",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	    	     {
+        "title": " Kanoji, okarishimasu ",
+        "image": "https://mrkzgulfup.com/uploads/165661413698411.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Kazuya Kinoshita is dumped by his girlfriend Mami Nanami after dating for a month. He then decides to use an online dating app to rent a girlfriend named Chizuru Mizuhara, a beautiful and attractive girl. However, because he thinks she was inauthentic, he gives her a low rating. When Chizuru berates him for that during their next meeting, he realizes she is meaner than he expected. However, when Kazuya's grandmother is hospitalized following a collapse, he brings Chizuru along and his grandmother is smitten with how great she is. As such, Kazuya continues renting Chizuru in order to keep up appearances with his family and friends, but things get complicated when they discover they are next-door apartment neighbors and attend the same college. Later, other girls from the rental girlfriend business also join in. ",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	    	   {
+        "title": " Sono Bisque Doll wa Koi wo Suru ",
+        "image": "https://i.pinimg.com/564x/cb/fe/75/cbfe75474b6cf6e4902dcf04f9cdd788.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "High school student Wakana Gojou spends his days perfecting the art of making hina dolls, hoping to eventually reach his grandfather's level of expertise. While his fellow teenagers busy themselves with pop culture, Gojou finds bliss in sewing clothes for his dolls. Nonetheless, he goes to great lengths to keep his unique hobby a secret, as he believes that he would be ridiculed were it revealed. \n\n  Enter Marin Kitagawa, an extraordinarily pretty girl whose confidence and poise are in stark contrast to Gojou's meekness. It would defy common sense for the friendless Gojou to mix with the likes of Kitagawa, who is always surrounded by her peers. However, the unimaginable happens when Kitagawa discovers Gojou's prowess with a sewing machine and brightly confesses to him about her own hobby: cosplay. Because her sewing skills are pitiable, she decides to enlist his help.\n\n  As Gojou and Kitagawa work together on one cosplay outfit after another, they cannot help but grow close—even though their lives are worlds apart.",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	    	      {
+        "title": " Shigatsu wa kimi no uso ",
+        "image": "https://mrkzgulfup.com/uploads/165661906742413.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": " Kousei Arima is a child prodigy known as the 'Human Metronome' for playing the piano with precision and perfection. Guided by a strict mother and rigorous training, Kousei dominates every competition he enters, earning the admiration of his musical peers and praise from audiences. When his mother suddenly passes away, the subsequent trauma makes him unable to hear the sound of a piano, and he never takes the stage thereafter.\n\n Nowadays, Kousei lives a quiet and unassuming life as a junior high school student alongside his friends Tsubaki Sawabe and Ryouta Watari. While struggling to get over his mother's death, he continues to cling to music. His monochrome life turns upside down the day he encounters the eccentric violinist Kaori Miyazono, who thrusts him back into the spotlight as her accompanist. Through a little lie, these two young musicians grow closer together as Kaori tries to fill Kousei's world with color.",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	      {
+        "title": " Koe no Katachi ",
+        "image": "https://mrkzgulfup.com/uploads/164938354964481.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "As a wild youth, elementary school student Shouya Ishida sought to beat boredom in the cruelest ways. When the deaf Shouko Nishimiya transfers into his class, Shouya and the rest of his class thoughtlessly bully her for fun. However, when her mother notifies the school, he is singled out and blamed for everything done to her.\n\n With Shouko transferring out of the school, Shouya is left at the mercy of his classmates. He is heartlessly ostracized all throughout elementary and middle school, while teachers turn a blind eye.Now in his third year of high school, Shouya is still plagued by his wrongdoings as a young boy. Sincerely regretting his past actions, he sets out on a journey of redemption: to meet Shouko once more and make amends.Koe no Katachi tells the heartwarming tale of Shouya's reunion with Shouko and his honest attempts to redeem himself, all while being continually haunted by the shadows of his past.",
+        "isNative": true,
+		"background": "#FFE998"
+      },
+	    	      {
+        "title": " Kimi no Na wa. ",
+        "image": "https://mrkzgulfup.com/uploads/164938440807931.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.\n\n  One day, Mitsuha awakens in a room that is not her own and suddenly finds herself living the dream life in Tokyo—but in Taki's body! Elsewhere, Taki finds himself living Mitsuha's life in the humble countryside. In pursuit of an answer to this strange phenomenon, they begin to search for one another.\n\nث Kimi no Na wa. revolves around Mitsuha and Taki's actions, which begin to have a dramatic impact on each other's lives, weaving them into a fabric held together by fate and circumstance.",
+        "isNative": true,
+		"background": "#FFE998"
+      },
+	    	  	    {
+        "title": " Niskoi ",
+        "image": "https://mrkzgulfup.com/uploads/165661479974081.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "The heir to a Yakuza Family is forced to be in a relationship with the daughter of the head of a gangster family to avoid a gang war, much to their chagrin.\n\n Raku Ichijou is an average high school student. He also happens to be the sole heir to the head of a Yakuza Family called the Shuei-gumi. Ten years ago, Raku made a promise... a secret promise with a girl he met. They promised one another that they will 'get married when they reunite.' Since then, Raku never let go of the pendant the girl gave him. Then one day, a beautiful girl named Chitoge Kirisaki transfers into Raku's class. Their chemistry was more than off. There was not a moment where they were not fighting. But by a weird turn of events, Raku and Chitoge agree to become fake lovers. Although his heart is really interested in his classmate Kosaki Onodera, Raku must continue pretending to be Chitoge's boyfriend.",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	  {
+        "title": " Masamune kun no revenge ",
+        "image": "https://mrkzgulfup.com/uploads/165663088716771.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "When Masamune Makabe was a child, he was rejected by a rich, beautiful girl named Aki Adagaki, who gave him the nickname 'Piggy' for being overweight. Devastated, Masamune put great effort into working out to improve his appearance. Now a handsome yet narcissistic high school student, Masamune is determined to exact revenge—he will have Aki fall madly in love with him and ultimately reject her the next time they meet.\n\n  To his surprise, Masamune discovers he has transferred into Aki's school. Setting his plan into motion, Masamune first begins to form a relationship with the 'Brutal Princess' but, despite his efforts, fails miserably at his initial attempts. Shockingly, when Masamune finally progresses towards his vengeance, he receives a mysterious letter addressing him by his old nickname. Unless Masamune discovers the sender's identity, his plan is doomed before it even starts!",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	      {
+        "title": " kaguya-sama: love is war ",
+        "image": "https://mrkzgulfup.com/uploads/165662565607391.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "At the renowned Shuchiin Academy, Miyuki Shirogane and Kaguya Shinomiya are the student body's top representatives. Ranked the top student in the nation and respected by peers and mentors alike, Miyuki serves as the student council president. Alongside him, the vice president Kaguya—eldest daughter of the wealthy Shinomiya family—excels in every field imaginable. They are the envy of the entire student body, regarded as the perfect couple.\n\n  However, despite both having already developed feelings for the other, neither are willing to admit them. The first to confess loses, will be looked down upon, and will be considered the lesser. With their honor and pride at stake, Miyuki and Kaguya are both equally determined to be the one to emerge victorious on the battlefield of love!",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	  
+	    {
+        "title": " Yahari ore no seishun love come wa machigatteiru ",
+        "image": "https://mrkzgulfup.com/uploads/165662668168111.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Hachiman Hikigaya is an apathetic high school student with narcissistic and semi-nihilistic tendencies. He firmly believes that joyful youth is nothing but a farce, and everyone who says otherwise is just lying to themselves. \n\n  In a novel punishment for writing an essay mocking modern social relationships, Hachiman's teacher forces him to join the Volunteer Service Club, a club that aims to extend a helping hand to any student who seeks their support in achieving their goals. With the only other club member being the beautiful ice queen Yukino Yukinoshita, Hachiman finds himself on the front line of other people's problems—a place he never dreamed he would be. As Hachiman and Yukino use their wits to solve many students' problems, will Hachiman's rotten view of society prove to be a hindrance or a tool he can use to his advantage?",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	  {
+        "title": " Ore wo suki nano wa omae dake ka yo ",
+        "image": "https://mrkzgulfup.com/uploads/165662812146711.jpg",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Amatsuyu 'Jouro' Kisaragi is a completely average second-year high school student who has two dates over one weekend⁠—with the student council president Sakura 'Cosmos' Akino on Saturday, then with his childhood friend Aoi 'Himawari' Hinata on Sunday. Sadly for Jouro, both girls proclaim their love for his best friend Taiyou 'Sun-chan' Ooga, the ace of the baseball team. Accepting each of their requests for advice and guidance, he is now responsible for helping the two girls win the heart of the same guy.\n\n  Unbeknownst to his friends, Jouro's friendly and obtuse image is all but a ruse designed to cast himself as the clueless protagonist of a textbook romantic comedy. A schemer under his cheery facade, he makes the best of this unexpected turn of events with a new plan: get Sun-chan to fall for either Cosmos or Himawari and take the other as his own prize. But Jouro's last-ditch effort is threatened by the gloomy, four-eyed Sumireko 'Pansy' Sanshokuin, who surprises Jouro with not only her knowledge of his secret personality but also a confession to the true self he hid for all this time.\n\n  Stuck in this hilariously messy situation, each of the five students must navigate countless lies, traps, and misunderstandings to come out on top.",
+        "isNative": false,
+		"background": "#FFE998"
+      }
+    ]
+
+  }
+}
