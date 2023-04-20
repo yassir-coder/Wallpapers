@@ -7,7 +7,7 @@
         "InterstitialAd": "admob",
         "NativeAd": "admob",
 	      
-	      "MyPromo": "no",
+        "MyPromo": "no",
 		
         "BannerAdmob": "ca-app-pub-9656443482471903/3359523790",
         "InterAdmob":  "ca-app-pub-9656443482471903/6848214802",
