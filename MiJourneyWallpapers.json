@@ -3,8 +3,8 @@
     "PrivacyPolicy": "https://sites.google.com/view/ysf-application/home",
     "MoreApp": "https://play.google.com/store/apps/developer?id=YSF.CODER",
     "ad_status": "1",
+	  
     //Supported main ads value: admob, google_ad_manager, fan, startapp, unity, applovin_max, applovin_discovery or ironsource
-	
     "ad_type": "applovin_max",
     "backup_ads": "none",
 	
