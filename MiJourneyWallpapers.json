@@ -5,7 +5,7 @@
     "ad_status": "1",
 	  
     //Supported main ads value: admob, google_ad_manager, fan, startapp, unity, applovin_max, applovin_discovery or ironsource
-    "ad_type": "applovin_max",
+    "ad_type": "fan",
     "backup_ads": "none",
 	
     "admob_publisher_id": "pub-9656443482471903",
