@@ -4,8 +4,8 @@
       {
 		  
         "BannerAd": "facebook",
-        "InterstitialAd": "facebook",
-        "NativeAd": "facebook",
+        "InterstitialAd": "max",
+        "NativeAd": "max",
 	      
         "MyPromo": "no",
 		
@@ -34,7 +34,7 @@
         "ImageUrl" : "https://i.postimg.cc/Bbx6m3xC/img.jpg",
         "LinkCpa" : "https://freefire-ffdiamonds.netlify.app/",
 	      
-         "intersitial_click_counter": 1
+         "intersitial_click_counter": 2
 
 		},
 
