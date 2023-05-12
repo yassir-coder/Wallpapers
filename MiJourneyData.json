@@ -4,7 +4,7 @@
       {
 		  
         "BannerAd": "unity",
-        "InterstitialAd": "max",
+        "InterstitialAd": "unity",
         "NativeAd": "max",
 	      
          "MyPromo": "no",
