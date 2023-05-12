@@ -3,7 +3,7 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "facebook",
+        "BannerAd": "unity",
         "InterstitialAd": "max",
         "NativeAd": "max",
 	      
@@ -25,10 +25,10 @@
 		
 		"ironsource_appKey": "1011dee21",
 		
-		"unity_game_id": "3883855",
-		"unity_test": true,
-		"unity_banner": "banner",
-		"unity_interstitial": "video",
+		"unity_game_id": "5277196",
+		"unity_test": false,
+		"unity_banner": "Banner_Android",
+		"unity_interstitial": "Interstitial_Android",
 		
         "Cpa": false,
         "ImageUrl" : "https://i.postimg.cc/Bbx6m3xC/img.jpg",
