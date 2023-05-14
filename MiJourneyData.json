@@ -9,10 +9,10 @@
 	      
          "MyPromo": "no",
 		
-        "BannerAdmob": "ca-app-pub-9656443482471903/3359523790",
-        "InterAdmob":  "ca-app-pub-9656443482471903/6848214802",
-        "NativeAdmob": "ca-app-pub-9656443482471903/6885256716",
-	"OpenAdmob": "ca-app-pub-9656443482471903/8743750401",
+        "BannerAdmob": "",
+        "InterAdmob":  "",
+        "NativeAdmob": "",
+	"OpenAdmob":   "",
 
 	      	"MaxBanner" : "44ce4d66b0386cf7",
 		"MaxInter" :  "467ca2b3d4e49cb6",
