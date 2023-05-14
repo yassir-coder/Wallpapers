@@ -9,10 +9,10 @@
     "backup_ads": "none",
 	
     "admob_publisher_id": "pub-9656443482471903",
-    "admob_banner_unit_id": "ca-app-pub-9656443482471903/3359523790",
-    "admob_interstitial_unit_id": "ca-app-pub-9656443482471903/6848214802",
-    "admob_native_unit_id": "ca-app-pub-9656443482471903/6885256716",
-    "admob_app_open_ad_unit_id": "ca-app-pub-9656443482471903/8743750401",
+    "admob_banner_unit_id": "",
+    "admob_interstitial_unit_id": "",
+    "admob_native_unit_id": "",
+    "admob_app_open_ad_unit_id": "",
 	
     "ad_manager_banner_unit_id": "/6499/example/banner",
     "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
