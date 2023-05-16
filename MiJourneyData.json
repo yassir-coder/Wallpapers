@@ -3,7 +3,7 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "unity",
+        "BannerAd": "max",
         "InterstitialAd": "max",
         "NativeAd": "max",
 	      
